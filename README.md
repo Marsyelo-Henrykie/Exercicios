@@ -1,2 +1,2 @@
 # Exercicios
-Este repositório demonstrará os exercicios das linguagens aprendidas, como forma de demonstrar a minha evolução.
+Este repositório demonstrará os exercícios das linguagens aprendidas, como forma de demonstrar a minha evolução.
