@@ -1,0 +1,29 @@
+div span {
+  color: #febe01;
+}
+div a {
+  color: #332200;
+}
+* {
+  font-family: Arial;
+}
+h1 {
+  color: #111111;
+  text-align: center;
+}
+div {
+  background: #111111;
+  border-radius: 4px;
+}
+div h2 {
+  color: white;
+}
+div p {
+  color: #b2b2b2;
+}
+div a {
+  background: #febe01;
+  color: #332200;
+  text-decoration: none;
+  text-align: center;
+}
